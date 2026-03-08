@@ -1,4 +1,4 @@
 # Shopping List
 # Format: path<TAB>name<TAB>scale
 
-cakes/wedding cake.cook	Wedding Cake	1
+breads/croissant.cook	Classic Croissants	1
