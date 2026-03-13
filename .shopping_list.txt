@@ -1,4 +1,4 @@
 # Shopping List
 # Format: path<TAB>name<TAB>scale
 
-breads/croissant.cook	Classic Croissants	1
+components/tartlet-shells.cook	Tartlet Shells	1
