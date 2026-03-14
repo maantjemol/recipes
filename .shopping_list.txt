@@ -1,4 +1,4 @@
 # Shopping List
 # Format: path<TAB>name<TAB>scale
 
-components/tartlet-shells.cook	Tartlet Shells	1
+desserts/choux-caramel.cook	Caramel Choux Pastry	1
