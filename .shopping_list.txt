@@ -1,8 +1,4 @@
 # Shopping List
 # Format: path<TAB>name<TAB>scale
 
-cakes/vanilla-sponge.cook	Vanilla Sponge	1
-components/hazelnut-feuilletine-crunch.cook	Hazelnut Feuilletine Crunch (No Cocoa Butter)	1
-components/gianduja-mousse.cook	Gianduja Mousse (Bavarian-style)	1
-components/thin-chocolate-ganache.cook	Thin Milk Chocolate Ganache	1
-components/whipped-salted-caramel.cook	Whipped Salted Caramel	1
+desserts/choux-caramel.cook	Caramel Choux Pastry	1
