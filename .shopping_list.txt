@@ -1,4 +1,6 @@
 # Shopping List
 # Format: path<TAB>name<TAB>scale
 
-desserts/choux-caramel.cook	Caramel Choux Pastry	1
+components/swiss-meringue-buttercream.cook	Swiss Meringue Buttercream	1
+cakes/chiffon sponge.cook	Chiffon Sponge	1
+cakes/chiffon sponge.cook	Chiffon Sponge	1
