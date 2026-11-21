@@ -2,6 +2,8 @@
 
 Recepten uit *Groot Nieuw Volledig Indisch Kookboek* van J.M.J. Catenius-van der Meijden (zesde druk, Van Goor Zonen, Den Haag), omgezet naar [Cooklang](https://cooklang.org/docs/). De spelling is gemoderniseerd naar hedendaags Nederlands; Indonesische benamingen zijn gelaten zoals in het boek. De bestandsnummers volgen de receptnummers van het boek.
 
+📖 Alle recepten als één boek: [Indisch-Kookboek.pdf](Indisch-Kookboek.pdf) (gemaakt met Typst, zie [boek/](boek/)).
+
 Tenzij anders vermeld zijn de recepten gerekend op een tafel voor vier à vijf personen. Een eetlepel ("lepel") is de gewone soeplepel; 1 pond = 500 gram, 1 ons = 100 gram.
 
 Totaal: 1362 recepten.
